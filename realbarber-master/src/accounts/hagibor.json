@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "kalendar-rezervacniho-systemu",
+  "private_key_id": "11a18c3b5ddda4f61ed9eb89ae47245d6a8017a9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQClgAd/A1nyhs8H\n/KRL6sv+/Z/UKWQ5WoL+E+BjPDY+QpIbsRcoTlTDzOqbOVcTjVcV+TryFMB53BKw\nj4UhgMR5s1lMOS9u13ygLUU8ksjBDQTCq3OujkiTmF7O87wL2I/JBJdmrJLAUyFO\n960UZ0YgYk9YPSbcxU9T2SiokcJriv6yCwVts5cHjGWPiu6lymFwtWHGd8WvSpgk\n9gXZOAeiK7+XstsJrgqYT9FO0AHXJQBMvU/dUgM2hVDjo4Pdb6D5l7cdxMCvp9cw\n29YqBJ+DeVRrIdCLXPF9WqfrQA8dEycfYLu12GyL5JfYY24Y2OJThvSmeYiOU3we\nUeLvaaCTAgMBAAECggEAGjhZd68BPiJLhJlrMjflz+VAwC06mreTT0u43h/4/A4x\n9b8tyw318ftyI9uGxys6Y9nTk+zjvaq3L0/dqLws5Jcci633rNjo/ruNX5ZlxegZ\nG/pr3njeWLvoMWN+JGZQCWn3zqWCroO9IDSvMC9YdeL9bR5rHMkJ01/xSBunsL/Y\nNAHbWAc17cAcg1L8OC03bnKnf8te2DrAUdSR8iLaKT8/JxScgoWZBjRpK1kbjBgP\nc0/R7YF4oJ4v93WgMxgw3ZlMhvBN8FOnY3UmUevzgazm//p4Amwn7UdpovnYjDNd\nErHVFG7N+1skH+ft+9Ox9Bq0TmD8vMkVEOXE56bm+QKBgQDhMS9rI8/NtixDGiXO\nSMagTfmTbFhDEdRaJHp/RrZ25EK1MUS9GcP4CF6SOO5usm3fHYfHWNToZ4wOJL/B\nv7vs3tanr5jjmH4ztqHVWw/xB7qmTylyXjxZjnQTA1bbVIJ7pre7ytGnmqTCSpBh\notdFU6uKCN7G12t754ikFNMj3QKBgQC8JEY0iZYfPnBgTxerZIxuOhSXregE59VZ\nrQaW2i9nwvq1elVGLAWytLF6Q9twJutckh79+B0w2TXZmQ2hzJ/bT+6x4X16G2OJ\ngyN/fNItfni3HIzk33uD2k4J/HY+my0aeESbdtoInkepsLxLUHavE7aevFfJ+s/9\nZ1ykYCcHLwKBgGl5iCQ+mc5YTVMApESCgcYDv6n1TUHc0AGIpHeIv13ge/4yHWgU\n8VzzTpheYg8nM58VTctpKA/SsB7Px6EQFQ1VMmVIMewoOLQwDozIIida32mWGmuf\nB9VKi8N8BOqmIpeX9ubWkGxYWmNGWWnhw8KM9gOpM+8eZxGZ2L5BosNhAoGARyP8\nO+9uiX/lpDUkARXzF9b0ZGpI2loDTXZkkHQOCtEqVabdSbxppyo2FcJE3oKI6qcB\n+wxvlUH837vE8NJb++ScoDxgYuSqXZvtt04udy9kW/D6waxTmwbYDWSeHYw1oNWr\nM5HcXffjpyGCAYR6bDcrDZiwJVqmfO4xlKIa/9cCgYEAg70SAtop2RexFSg8bjCp\ng5ADBvOZgk1ASCufB2p9IY40/DlGyHWRSFS1aaYo95xtGuXzM1Tf+5/ac6EAV+RT\nCJng+cIsYDEVCAYtK8/eti4WkgVVPEucZ8u73rAxK5ZX4TlvpXvO50HSte3Hn5Fg\ne+IrRZUQc48z+JofNsmNbvk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "hagibor@kalendar-rezervacniho-systemu.iam.gserviceaccount.com",
+  "client_id": "115104494519664976158",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/hagibor%40kalendar-rezervacniho-systemu.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
